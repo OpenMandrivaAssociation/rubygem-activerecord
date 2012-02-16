@@ -12,6 +12,7 @@ URL:		http://www.rubyonrails.org
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
+%rename		ruby-activerecord
 
 %description
 Databases on Rails. Build a persistent domain model by mapping database tables
