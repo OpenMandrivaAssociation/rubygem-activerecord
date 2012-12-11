@@ -4,8 +4,8 @@
 Summary:	Object-relational mapper framework (part of Rails)
 Name:		rubygem-%{rbname}
 
-Version:	3.2.3
-Release:	3
+Version:	3.2.8
+Release:	1
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://www.rubyonrails.org
